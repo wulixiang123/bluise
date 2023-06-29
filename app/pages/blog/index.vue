@@ -1,9 +1,9 @@
 <template>
   <section class="blog">
     <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Blog</h1>
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">我的第二个网站~</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
-        Slow-carb messenger bag mlkshk fingerstache four dollar toast.
+        想要学习的可以联系我哦qq:1131107655
       </h2>
     </div>
 
